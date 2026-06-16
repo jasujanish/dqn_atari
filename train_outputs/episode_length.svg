@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white" />
+<text x="450.0" y="28" text-anchor="middle" font-size="20" font-family="Arial, sans-serif">Episode Length</text>
+<line x1="72" y1="56" x2="72" y2="456" stroke="#333" />
+<line x1="72" y1="456" x2="876" y2="456" stroke="#333" />
+<line x1="72.00" y1="456" x2="72.00" y2="462" stroke="#333" /><text x="72.00" y="480" text-anchor="middle" font-size="12">1</text>
+<line x1="273.00" y1="456" x2="273.00" y2="462" stroke="#333" /><text x="273.00" y="480" text-anchor="middle" font-size="12">6</text>
+<line x1="474.00" y1="456" x2="474.00" y2="462" stroke="#333" /><text x="474.00" y="480" text-anchor="middle" font-size="12">10</text>
+<line x1="675.00" y1="456" x2="675.00" y2="462" stroke="#333" /><text x="675.00" y="480" text-anchor="middle" font-size="12">15</text>
+<line x1="876.00" y1="456" x2="876.00" y2="462" stroke="#333" /><text x="876.00" y="480" text-anchor="middle" font-size="12">20</text>
+<line x1="66" y1="456.00" x2="72" y2="456.00" stroke="#333" /><text x="62" y="460.00" text-anchor="end" font-size="12">297.00</text>
+<line x1="66" y1="356.00" x2="72" y2="356.00" stroke="#333" /><text x="62" y="360.00" text-anchor="end" font-size="12">469.00</text>
+<line x1="66" y1="256.00" x2="72" y2="256.00" stroke="#333" /><text x="62" y="260.00" text-anchor="end" font-size="12">641.00</text>
+<line x1="66" y1="156.00" x2="72" y2="156.00" stroke="#333" /><text x="62" y="160.00" text-anchor="end" font-size="12">813.00</text>
+<line x1="66" y1="56.00" x2="72" y2="56.00" stroke="#333" /><text x="62" y="60.00" text-anchor="end" font-size="12">985.00</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="2" points="72.00,318.79 114.32,367.05 156.63,361.81 198.95,97.86 241.26,268.79 283.58,442.63 325.89,336.81 368.21,293.21 410.53,290.88 452.84,56.00 495.16,389.14 537.47,382.74 579.79,310.65 622.11,456.00 664.42,356.58 706.74,410.07 749.05,433.91 791.37,229.84 833.68,394.37 876.00,156.58" />
+<text x="450.0" y="502" text-anchor="middle" font-size="14" font-family="Arial, sans-serif">Episode</text>
+<text x="18" y="260.0" text-anchor="middle" font-size="14" font-family="Arial, sans-serif" transform="rotate(-90 18 260.0)">Steps</text>
+</svg>
