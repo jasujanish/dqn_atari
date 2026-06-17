@@ -1,3 +1,6 @@
-src/__pycache__
-dqn_atari
-.DS_Storew
+__pycache__/
+*.py[cod]
+.DS_Store
+src/modal_start.py
+dqn_atari/
+train_outputs_gymnax/

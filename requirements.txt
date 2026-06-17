@@ -14,6 +14,7 @@ jaxlib==0.10.1
 markdown-it-py==4.2.0
 mdurl==0.1.2
 ml-dtypes==0.5.4
+modal==1.5.0
 msgpack==1.2.0
 numpy==2.4.6
 opt-einsum==3.4.0

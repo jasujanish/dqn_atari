@@ -1,0 +1,1 @@
+This repo is a very basic implemenation of deep-q networks for Atari (no target network, poor GPU/TPU utilization) written in JAX. This repo was created as an exercise to learn more about JAX.
