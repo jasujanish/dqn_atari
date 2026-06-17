@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="white" />
+<text x="450.0" y="28" text-anchor="middle" font-size="20" font-family="Arial, sans-serif">Training Loss</text>
+<line x1="72" y1="56" x2="72" y2="456" stroke="#333" />
+<line x1="72" y1="456" x2="876" y2="456" stroke="#333" />
+<line x1="72.00" y1="456" x2="72.00" y2="462" stroke="#333" /><text x="72.00" y="480" text-anchor="middle" font-size="12" font-family="Arial, sans-serif">1</text>
+<line x1="273.00" y1="456" x2="273.00" y2="462" stroke="#333" /><text x="273.00" y="480" text-anchor="middle" font-size="12" font-family="Arial, sans-serif">16</text>
+<line x1="474.00" y1="456" x2="474.00" y2="462" stroke="#333" /><text x="474.00" y="480" text-anchor="middle" font-size="12" font-family="Arial, sans-serif">32</text>
+<line x1="675.00" y1="456" x2="675.00" y2="462" stroke="#333" /><text x="675.00" y="480" text-anchor="middle" font-size="12" font-family="Arial, sans-serif">48</text>
+<line x1="876.00" y1="456" x2="876.00" y2="462" stroke="#333" /><text x="876.00" y="480" text-anchor="middle" font-size="12" font-family="Arial, sans-serif">63</text>
+<line x1="66" y1="456.00" x2="72" y2="456.00" stroke="#333" /><text x="62" y="460.00" text-anchor="end" font-size="12" font-family="Arial, sans-serif">0.01</text>
+<line x1="66" y1="356.00" x2="72" y2="356.00" stroke="#333" /><text x="62" y="360.00" text-anchor="end" font-size="12" font-family="Arial, sans-serif">1.00</text>
+<line x1="66" y1="256.00" x2="72" y2="256.00" stroke="#333" /><text x="62" y="260.00" text-anchor="end" font-size="12" font-family="Arial, sans-serif">2.00</text>
+<line x1="66" y1="156.00" x2="72" y2="156.00" stroke="#333" /><text x="62" y="160.00" text-anchor="end" font-size="12" font-family="Arial, sans-serif">3.00</text>
+<line x1="66" y1="56.00" x2="72" y2="56.00" stroke="#333" /><text x="62" y="60.00" text-anchor="end" font-size="12" font-family="Arial, sans-serif">3.99</text>
+<polyline fill="none" stroke="#2563eb" stroke-width="2" points="72.00,453.04 84.97,452.90 97.94,454.90 110.90,447.46 123.87,452.66 136.84,449.85 149.81,455.05 162.77,450.70 175.74,453.07 188.71,455.26 201.68,453.69 214.65,447.86 227.61,446.48 240.58,451.03 253.55,452.12 266.52,455.59 279.48,453.00 292.45,451.44 305.42,450.54 318.39,451.75 331.35,456.00 344.32,444.86 357.29,448.49 370.26,454.68 383.23,448.29 396.19,451.05 409.16,443.61 422.13,442.22 435.10,451.03 448.06,454.51 461.03,446.79 474.00,414.42 486.97,429.70 499.94,449.54 512.90,374.03 525.87,452.03 538.84,451.59 551.81,378.60 564.77,449.71 577.74,400.73 590.71,404.14 603.68,315.88 616.65,441.68 629.61,435.10 642.58,367.11 655.55,274.88 668.52,384.97 681.48,370.74 694.45,370.19 707.42,268.52 720.39,439.39 733.35,292.89 746.32,300.24 759.29,337.27 772.26,440.57 785.23,407.30 798.19,183.52 811.16,414.00 824.13,413.66 837.10,220.50 850.06,56.00 863.03,445.88 876.00,444.01" />
+<text x="450.0" y="502" text-anchor="middle" font-size="14" font-family="Arial, sans-serif">Update</text>
+<text x="18" y="260.0" text-anchor="middle" font-size="14" font-family="Arial, sans-serif" transform="rotate(-90 18 260.0)">Loss</text>
+</svg>
